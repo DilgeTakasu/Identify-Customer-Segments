@@ -44,5 +44,5 @@ To reproduce the results, please obtain the data directly from Kaggle/Udacity an
 
 A rendered HTML version of the notebook is included for quick browsing (no execution required):
 
-- [HTML Report](./Identify_Customer_Segments.html)
+- [HTML Report](https://dilgetakasu.github.io/Identify-Customer-Segments/Identify_Customer_Segments.html)
 
